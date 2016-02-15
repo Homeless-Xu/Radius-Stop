@@ -18,6 +18,18 @@
 		<array>
 			<string>schema.sql 详解.md</string>
 		</array>
+		<array>
+			<string>Radius 流控~.md</string>
+		</array>
+		<array>
+			<string>PPTP.md</string>
+		</array>
+		<array>
+			<string>1.Freeradius 服务端+测试工具.md</string>
+		</array>
+		<array>
+			<string>MariaDB.md</string>
+		</array>
 	</array>
 </dict>
 </plist>
